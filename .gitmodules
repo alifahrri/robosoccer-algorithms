@@ -1,0 +1,12 @@
+[submodule "robosoccer-mcl"]
+	path = robosoccer-mcl
+	url = https://github.com/alifahrri/robosoccer-mcl.git
+[submodule "robosoccer-grid-map"]
+	path = robosoccer-grid-map
+	url = https://github.com/alifahrri/robosoccer-grid-map.git
+[submodule "graph-path-planning"]
+	path = graph-path-planning
+	url = https://github.com/alifahrri/graph-path-planning.git
+[submodule "robosoccer-trajectory"]
+	path = robosoccer-trajectory
+	url = https://github.com/alifahrri/robosoccer-trajectory.git
