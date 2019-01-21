@@ -6,7 +6,7 @@ This repo shows my implementation (in robot soccer context) of Augmented Monte C
 ### Demo
 | self-correction                   	| kidnapped recovery                 	|
 |-----------------------------------	|------------------------------------	|
-| ![mcl_correction](robosoccer-mcl/mcl_sim_correction.gif) 	| ![mcl_correction](robosoccer-mcl/mcl_sim_kidnap.gif) 	|
+| ![mcl_correction](https://github.com/alifahrri/robosoccer-mcl/blob/master/mcl_sim_correction.gif) 	| ![mcl_kidnap](https://github.com/alifahrri/robosoccer-mcl/blob/master/mcl_sim_kidnap.gif) 	|
    
 click any [of](https://www.youtube.com/watch?v=tMeLSQvUeVQ) [this](https://www.youtube.com/watch?v=ujVcfG9VXiw) [link](https://www.youtube.com/watch?v=SXniPrJiX9Q) to watch full videos.
 
@@ -16,7 +16,7 @@ This repo shows my implementation (within robosoccer context) of Occupancy Grid 
 > Thrun, Sebastian, Wolfram Burgard, and Dieter Fox. *Probabilistic Robotics*. MIT Press, 2005.
 
 ### Demo
-![gif](robosoccer-grid-map/demo.gif)   
+![gif](https://github.com/alifahrri/robosoccer-grid-map/blob/master/demo.gif)   
    
 click any [of](https://www.youtube.com/watch?v=3Is-m4kjH-Y) [this](https://www.youtube.com/watch?v=vDWKjYsMWv4) [link](https://www.youtube.com/watch?v=xpIxKY8aeac) to watch full videos.
 
